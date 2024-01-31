@@ -134,7 +134,7 @@ The Integrated HR Analytics Dashboard provides comprehensive insights into vario
 5. **HR Service Optimization:**
    - **Stock Option Utilization:** Stock option levels vary across departments, with varying attrition rates based on stock option levels.
    - **Employee Satisfaction:** Job satisfaction and relationship satisfaction vary across job roles, with environment satisfaction also showing variations.
-   - **Work-Life Balance:** Attrition rates vary based on work-life balance ratings, with differences observed across age groups.
+   - **Work-Life Balance:** Attrition rates vary based on work-life balance ratings, with differences observed across age groups. Work-life balance significantly influences attrition rates, with higher work-life balance ratings associated with lower attrition rates. Differences in attrition rates across age groups suggest varying preferences and needs related to work-life balance.
    - **Benefits Utilization:** The average percent salary hike is 15.21%, and the average stock option level is 0.79.
 
 These findings provide valuable insights for HR professionals and management to optimize recruitment strategies, workforce planning, and HR service delivery to enhance employee satisfaction and retention efforts.
