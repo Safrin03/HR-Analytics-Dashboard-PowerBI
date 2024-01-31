@@ -106,9 +106,9 @@ WorkLifeBalance -
 ## 3) Overall Summary Findings:
 
 The Integrated HR Analytics Dashboard provides comprehensive insights into various aspects of employee management, including recruitment analysis, workforce planning, and HR service optimization.
-**Overall Summary Findings:**
 
 1. **Recruitment Analysis:**
+   - **Overall Employees**: The organization has a total of 1,470 employees.
    - **Attrition Rate:** The organization has an attrition rate of 16.08%, resulting in 238 employees leaving.
    - **Attrition by Factors:** Attrition rates vary across different factors:
      - Business Travel: Attrition rates are 24.73% for frequent travelers, 15.07% for rare travelers, and 7.95% for non-travelers.
@@ -120,14 +120,18 @@ The Integrated HR Analytics Dashboard provides comprehensive insights into vario
      - Marital Status: Single employees have the highest attrition rate.
    - **Demographics:** The average age of employees is 37 years, with an average salary of $6.5K. Monthly incomes vary across job roles and education fields.
   
-2. **Workforce Planning:**
+3. **Workforce Planning:**
+   - **Average Age:** The average age of employees is 37 years.
    - **Demographics:** The majority of employees fall in the 26-35 age group, with a balanced gender distribution.
+   - **Average Salary:** The average salary is $6.5K.
+   - **Salary Level:** Employees who left the company had a lower average monthly income compared to those who stayed. Employees in the lower salary brackets have higher attrition rates.
    - **Performance Ratings:** Performance ratings are consistent across departments, with variations observed among different job roles.
    - **Career Progression:** Career progression metrics such as years in the current role and years since the last promotion vary across job roles.
    - **Training Participation:** Most employees attended 2 training sessions last year, with some variability across different counts.
-   - **Job Level and Education:** The workforce consists of employees across different job levels and education levels.
+   - **Job Level and Education:** The workforce consists of employees across different job levels and education levels. Employees with a Technical Degree and Life Sciences background have higher attrition counts.
 
-3. **HR Service Optimization:**
+
+5. **HR Service Optimization:**
    - **Stock Option Utilization:** Stock option levels vary across departments, with varying attrition rates based on stock option levels.
    - **Employee Satisfaction:** Job satisfaction and relationship satisfaction vary across job roles, with environment satisfaction also showing variations.
    - **Work-Life Balance:** Attrition rates vary based on work-life balance ratings, with differences observed across age groups.
