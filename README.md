@@ -1,4 +1,6 @@
 # HR-Analytics-PowerBI Dashboard
+![Dashboard Gif](https://github.com/Safrin03/HR-Analytics-Dashboard-PowerBI/assets/135222070/a2c4a50d-3e41-4468-ba91-7911bc6e45d5)
+
 
 ## 1) Data Used
 ### Data Description:
