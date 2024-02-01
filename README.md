@@ -145,4 +145,4 @@ These findings provide valuable insights for HR professionals and management to 
 
 The Integrated HR Analytics Dashboard offers a user-friendly interface to visualize key HR metrics and trends. Users can explore recruitment trends, workforce demographics, performance ratings, career progression, training participation, and employee satisfaction metrics. The dashboard aims to empower HR professionals and management to make data-driven decisions to enhance recruitment strategies, optimize workforce planning, and improve employee satisfaction and retention efforts.
 
-**Click the Link:** Access the [HR Analytics Dashboard](HR Analytics Dashboard.pbix) to explore the interactive visualizations.
+**Click the Link:** Access the [HR Analytics Dashboard](https://github.com/Safrin03/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analytics%20Dashboard.pbix) to explore the interactive visualizations.
